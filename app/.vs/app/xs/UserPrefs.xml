@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{58D5FB4F-6BE2-4F22-846D-2B6A07520258}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PersonController.cs">
+    <Files>
+      <File FileName="Controllers/PersonController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="app" expanded="True">
+            <Node name="app" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PersonController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
